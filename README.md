@@ -1,11 +1,19 @@
 <h1 align="center">Hi 👋, I'm Simon!</h1>
 <h3 align="center">Passionate about cloud infrastructures and DevOps, I am dedicated to creating efficient and scalable software solutions for seamless deployments.</h3>
 
-<br>
 
-- 📫 How to reach me **haddad.simon@aol.fr**
-<br>
-<br>
+<h3> My latest projects : </h3>
+
+[Portfolio hosted on AWS with IaC and CI/CD (Cloud Resume Challenge)](https://github.com/simonhaddadgervais/portfolio-terraform-jenkins)
+
+[WordPress app hosted on AWS (using Nginx/PHP/MySQL) deployed with Ansible](https://github.com/simonhaddadgervais/wordpress-ansible-nginx)
+
+<h3> Certifications : </h3>
+<img src="https://i.postimg.cc/wMVv2C3r/cloud-practitionner.png" alt="CPP" width="100" height="100"/>
+<img src="https://i.postimg.cc/NjfcRy6B/assoiciate.png" alt="SAA" width="100" height="100"/>
+<img src="https://i.postimg.cc/NfjJ4RzJ/AWS-Developer-Associate-1024x1024.png" alt="DVA" width="100" height="100"/>
+
+
 
 
 
