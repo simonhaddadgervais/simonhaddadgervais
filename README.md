@@ -9,9 +9,13 @@
 [WordPress app hosted on AWS (using Nginx/PHP/MySQL) deployed with Ansible](https://github.com/simonhaddadgervais/wordpress-ansible-nginx)
 
 <h3> Certifications : </h3>
+
 <img src="https://i.postimg.cc/wMVv2C3r/cloud-practitionner.png" alt="CPP" width="100" height="100"/>
+
 <img src="https://i.postimg.cc/NjfcRy6B/assoiciate.png" alt="SAA" width="100" height="100"/>
+
 <img src="https://i.postimg.cc/NfjJ4RzJ/AWS-Developer-Associate-1024x1024.png" alt="DVA" width="100" height="100"/>
+
 
 
 
