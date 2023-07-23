@@ -21,6 +21,6 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="hhttps://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/NMPFHFxF/Ansible-logo.png" alt="aws" width="40" height="40"/> </a>
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/NMPFHFxF/Ansible-logo.png" alt="ansible" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/kXkVp4zK/aws-1.png" alt="aws" width="50" height="40"/> </a>
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/CxMwxp3d/terraform.png" alt="terraform" width="40" height="40"/> </a> 
