@@ -11,7 +11,7 @@
 <h3> Certifications : </h3>
 
 
-<img src="https://i.postimg.cc/02xYdSV6/cloud-practitionner.webp" alt="CPP" width="100" height="100" /> <img src="https://i.postimg.cc/NjfcRy6B/assoiciate.png" alt="SAA" width="105" height="105" /> <img src="https://i.postimg.cc/NfjJ4RzJ/AWS-Developer-Associate-1024x1024.png" alt="DVA" width="105" height="105" />
+<img src="https://i.postimg.cc/02xYdSV6/cloud-practitionner.webp" alt="CPP" width="100" height="100" /> <img src="https://i.postimg.cc/NjfcRy6B/assoiciate.png" alt="SAA" width="105" height="105" /> <img src="https://i.postimg.cc/NfjJ4RzJ/AWS-Developer-Associate-1024x1024.png" alt="DVA" width="110" height="110" />
 
 
 
