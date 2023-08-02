@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simon!</h1>
-<h3 align="center">Passionate about cloud infrastructures and DevOps, I am dedicated to creating efficient and scalable software solutions for seamless deployments.</h3>
+<h3 align="center">Passionate about cloud infrastructures and DevOps, I am dedicated to creating efficient software solutions for seamless deployments.</h3>
 
 
 <h3> My latest projects : </h3>
