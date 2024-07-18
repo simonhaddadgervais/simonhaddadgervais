@@ -11,7 +11,7 @@
 <h3> Certifications : </h3>
 
 
-<img src="https://i.postimg.cc/02xYdSV6/cloud-practitionner.webp" alt="CPP" width="100" height="100" /> <img src="https://i.postimg.cc/NjfcRy6B/assoiciate.png" alt="SAA" width="105" height="105" /><img src="https://i.postimg.cc/NfjJ4RzJ/AWS-Developer-Associate-1024x1024.png" alt="DVA" width="112" height="112" />
+<img src="https://i.postimg.cc/02xYdSV6/cloud-practitionner.webp" alt="CPP" width="100" height="100" /> <img src="https://i.postimg.cc/NjfcRy6B/assoiciate.png" alt="SAA" width="105" height="105" /><img src="https://i.postimg.cc/NfjJ4RzJ/AWS-Developer-Associate-1024x1024.png" alt="DVA" width="112" height="112" /> <img src="https://github.com/user-attachments/assets/1037cca1-b902-4df6-a59a-9a46e7166ac2" alt="azure-administrator" width="105" height="105" />
 
 
 
@@ -30,4 +30,4 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/NMPFHFxF/Ansible-logo.png" alt="ansible" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/kXkVp4zK/aws-1.png" alt="aws" width="50" height="40"/> </a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/CxMwxp3d/terraform.png" alt="terraform" width="40" height="40"/> </a> 
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://i.postimg.cc/CxMwxp3d/terraform.png" alt="terraform" width="40" height="40"/> </a>
