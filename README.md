@@ -12,10 +12,7 @@
 
 <img src="https://github.com/user-attachments/assets/1037cca1-b902-4df6-a59a-9a46e7166ac2" alt="azure-administrator" width="105" height="105" />
 <img src="https://github.com/user-attachments/assets/5216b0e9-9e4c-4837-88cb-ba83f830de1e" alt="azure-archi-expert" width="105" height="105" />
-<img src="https://github.com/user-attachments/assets/52239fef-6757-4430-bd91-bab355d0083c" alt="azure-ai" width="115" height="115" />
-<img src="https://i.postimg.cc/02xYdSV6/cloud-practitionner.webp" alt="CPP" width="100" height="100" />
-<img src="https://i.postimg.cc/NjfcRy6B/assoiciate.png" alt="SAA" width="105" height="105" />
-<img src="https://i.postimg.cc/NfjJ4RzJ/AWS-Developer-Associate-1024x1024.png" alt="DVA" width="112" height="112" />
+<img src="https://github.com/user-attachments/assets/52239fef-6757-4430-bd91-bab355d0083c" alt="azure-ai" width="110" height="110" /><img src="https://i.postimg.cc/02xYdSV6/cloud-practitionner.webp" alt="CPP" width="100" height="100" /><img src="https://i.postimg.cc/NjfcRy6B/assoiciate.png" alt="SAA" width="105" height="105" /><img src="https://i.postimg.cc/NfjJ4RzJ/AWS-Developer-Associate-1024x1024.png" alt="DVA" width="112" height="112" />
 
 
 <h3 align="left">Connect with me:</h3>
